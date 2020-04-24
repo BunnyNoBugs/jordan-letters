@@ -21,6 +21,25 @@
                   <p>In the public domain.(?)</p>
                </availability>
             </bibl>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>Москва</settlement>
+                  <repository>Личная коллекция Михаила Сонькина</repository>
+               </msIdentifier>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Набор сложенных втрое клетчатых тетрадных листков.</support>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Часть <persName ref="PersonList.xml#N_A_Tolstoy">Н. А. Толстого</persName>
+                        написана синей шариковой ручкой. Часть <persName
+                           ref="PersonList.xml#N_M_Lozinskaya">Н. М. Лозинской</persName> --
+                        кориченвым фломастером.</p>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
