@@ -160,13 +160,12 @@
         <profileDesc>
             <correspDesc>
                 <correspAction type="sending">
-                    <persName ref="PersonList.xml#L_N_Tolstoy">Н. А. Толстой</persName>
-                    <placeName ref="PlacesList.xml#PLACE">!Название места!</placeName>
+                    <persName ref="#Nikita_Alexeevich_Tolstoy">Н. А. Толстой</persName>
+                    <persName ref="#Natalia_Mihailovna_Lozinskaya">Н. М. Лозинская</persName>
                     <date when="1976-11-30">30/XI 76</date>
                 </correspAction>
                 <correspAction type="receiving">
-                    <persName ref="PersonList.xml#RECEIVER">Н. А. Толстой</persName>
-                    <persName ref="PersonList.xml#RECEIVER">Н. М. Лозинская</persName>
+                    <persName ref="#Tatyana_Nikitichna_Tolstaya">Т. Н. Толстая</persName>
                 </correspAction>
                 <correspContext>
                     <ref type="prev"/>
