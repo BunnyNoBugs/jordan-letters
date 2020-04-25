@@ -42,22 +42,57 @@
                     </physDesc>
                 </msDesc>
                 <listPerson>
-                    <person xml:id="Elli_Nikolaevna_Lebedeva"/>
-                    <person xml:id="Valentin_Yakovlevich_Lebedev"/>
-                    <person xml:id="Valentin_Valentinovich_Lebedev"/>
-                    <person xml:id="Andrey_Valentinovich_Lebedev"/>
-                    <person xml:id="Vera_Krakau"/>
-                    <person xml:id="Nikita_Ignatyevich_Tolstoy"/>
-                    <person xml:id="Katya"/>
-                    <person xml:id="Olga_Alexandrovna_Prohorova"/>
-                    <person xml:id="Gleb_Alexandrovich_Lozinskiy"/>
-                    <person xml:id="Misha"/>
-                    <person xml:id="Olya"/>
-                    <person xml:id="Anya_Chyornaya"/>
-                    <person xml:id="Natasha"/>
-                    <person xml:id="Alexey_Andreevich_Lebedev"/>
-                    <person xml:id="Artemy_Andreevich_Lebedev"/>
-                    <person xml:id="Ignatiy_Mihaylovich_Ivanov"/>
+                    <person xml:id="Elli_Nikolaevna_Lebedeva">
+                        <persName>Элли Николаевна Лебедева</persName>
+                    </person>
+                    <person xml:id="Valentin_Yakovlevich_Lebedev">
+                        <persName>Валентин Яковлевич Лебедев</persName>
+                    </person>
+                    <person xml:id="Valentin_Valentinovich_Lebedev">
+                        <persName>Валентин Валентинович Лебедев</persName>
+                    </person>
+                    <person xml:id="Andrey_Valentinovich_Lebedev">
+                        <persName>Андрей Валентинович Лебедев</persName>
+                    </person>
+                    <person xml:id="Vera_Krakau">
+                        <persName>Вера Кракау</persName>
+                    </person>
+                    <person xml:id="Nikita_Ignatyevich_Tolstoy">
+                        <persName>Никита Игнатьевич Толстой</persName>
+                    </person>
+                    <person xml:id="Katya">
+                        <persName>Екатерина Никитична Толстая</persName>
+                    </person>
+                    <person xml:id="Olga_Alexandrovna_Prohorova">
+                        <persName>Ольга Александровна Прохорова</persName>
+                    </person>
+                    <person xml:id="Gleb_Alexandrovich_Lozinskiy">
+                        <persName>Глеб Александрович Лозинский</persName>
+                    </person>
+                    <person xml:id="Misha">
+                        <persName>Михаил Никитич Толстой</persName>
+                    </person>
+                    <person xml:id="Olya">
+                        <persName>Ольга Никитична Толстая</persName>
+                    </person>
+                    <person xml:id="Anya_Chyornaya">
+                        <persName>Аня Чёрная</persName>
+                    </person>
+                    <person xml:id="Natasha">
+                        <persName>Наталья Никитична Толстая</persName>
+                    </person>
+                    <person xml:id="Alexey_Andreevich_Lebedev">
+                        <persName>Алексей Андреевич Лебедев</persName>
+                    </person>
+                    <person xml:id="Artemy_Andreevich_Lebedev">
+                        <persName>Артемий Андреевич Лебедев</persName>
+                    </person>
+                    <person xml:id="Ignatiy_Mihaylovich_Ivanov">
+                        <persName>Игнатий Михайлович Иванов</persName>
+                    </person>
+                    <person xml:id="Alexandr_Vladimirovich_Prohorov">
+                        <persName>Александр Владимирович Прохоров</persName>
+                    </person>
                     <listRelation type="personal">
                         <relation name="parent_of" active="#Elli_Nikolaevna_Lebedeva"
                             passive="#Andrey_Valentinovich_Lebedev"/>
