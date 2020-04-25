@@ -12,8 +12,10 @@
             </publicationStmt>
             <sourceDesc>
                 <bibl>
-                    <author><persName xml:id="Nikita_Alexeevich_Tolstoy">Н. А. Толстой</persName></author>
-                    <author><persName xml:id="Natalia_Mihailovna_Lozinskaya">Н. М. Лозинская</persName></author>
+                    <author><persName xml:id="Nikita_Alexeevich_Tolstoy">Н. А.
+                        Толстой</persName></author>
+                    <author><persName xml:id="Natalia_Mihailovna_Lozinskaya">Н. М.
+                            Лозинская</persName></author>
                     <name>Личная коллекция Михаила Сонькина?</name>
                     <idno>Номер письма в личной коллекции Михаила Сонькина?</idno>
                     <availability status="free">
@@ -41,44 +43,87 @@
                     </physDesc>
                 </msDesc>
                 <listPerson>
-                    <person xml:id="Elli_Nikolaevna_Lebedeva"><persName>Элли Николаевна Лебедева</persName></person>
-                    <person xml:id="Valentin_Yakovlevich_Lebedev"><persName>Валентин Яковлевич Лебедев</persName></person>
-                    <person xml:id="Valentin_Valentinovich_Lebedev"><persName>Валентин Валентинович Лебедев</persName></person>
-                    <person xml:id="Andrey_Valentinovich_Lebedev"><persName>Андрей Валентинович Лебедев</persName></person>
-                    <person xml:id="Vera_Krakau"><persName>Вера Кракау</persName></person>
-                    <person xml:id="Nikita_Ignatyevich_Tolstoy"><persName>Никита Игнатьевич Толстой</persName></person>
-                    <person xml:id="Katya"><persName>Екатерина Никитична Толстая</persName></person>
-                    <person xml:id="Olga_Alexandrovna_Prohorova"><persName>Ольга Александровна Прохорова</persName></person>
-                    <person xml:id="Gleb_Alexandrovich_Lozinskiy"><persName>Глеб Александрович Лозинский</persName></person>
-                    <person xml:id="Misha"><persName>Михаил Никитич Толстой</persName></person>
-                    <person xml:id="Olya"><persName>Ольга Никитична Толстая</persName></person>
-                    <person xml:id="Anya_Chyornaya"><persName>Аня Чёрная</persName></person>
-                    <person xml:id="Natasha"><persName>Наталья Никитична Толстая</persName></person>
-                    <person xml:id="Alexey_Andreevich_Lebedev"><persName>Алексей Андреевич Лебедев</persName></person>
-                    <person xml:id="Artemy_Andreevich_Lebedev"><persName>Артемий Андреевич Лебедев</persName></person>
-                    <person xml:id="Ignatiy_Mihaylovich_Ivanov"><persName>Игнатий Михайлович Иванов</persName></person>
-                    <person xml:id="Alexandr_Vladimirovich_Prohorov"><persName>Александр Владимирович Прохоров</persName></person>
+                    <person xml:id="Elli_Nikolaevna_Lebedeva">
+                        <persName>Элли Николаевна Лебедева</persName>
+                    </person>
+                    <person xml:id="Valentin_Yakovlevich_Lebedev">
+                        <persName>Валентин Яковлевич Лебедев</persName>
+                    </person>
+                    <person xml:id="Valentin_Valentinovich_Lebedev">
+                        <persName>Валентин Валентинович Лебедев</persName>
+                    </person>
+                    <person xml:id="Andrey_Valentinovich_Lebedev">
+                        <persName>Андрей Валентинович Лебедев</persName>
+                    </person>
+                    <person xml:id="Vera_Krakau">
+                        <persName>Вера Кракау</persName>
+                    </person>
+                    <person xml:id="Nikita_Ignatyevich_Tolstoy">
+                        <persName>Никита Игнатьевич Толстой</persName>
+                    </person>
+                    <person xml:id="Katya">
+                        <persName>Екатерина Никитична Толстая</persName>
+                    </person>
+                    <person xml:id="Olga_Alexandrovna_Prohorova">
+                        <persName>Ольга Александровна Прохорова</persName>
+                    </person>
+                    <person xml:id="Gleb_Alexandrovich_Lozinskiy">
+                        <persName>Глеб Александрович Лозинский</persName>
+                    </person>
+                    <person xml:id="Misha">
+                        <persName>Михаил Никитич Толстой</persName>
+                    </person>
+                    <person xml:id="Olya">
+                        <persName>Ольга Никитична Толстая</persName>
+                    </person>
+                    <person xml:id="Anya_Chyornaya">
+                        <persName>Аня Чёрная</persName>
+                    </person>
+                    <person xml:id="Natasha">
+                        <persName>Наталья Никитична Толстая</persName>
+                    </person>
+                    <person xml:id="Alexey_Andreevich_Lebedev">
+                        <persName>Алексей Андреевич Лебедев</persName>
+                    </person>
+                    <person xml:id="Artemy_Andreevich_Lebedev">
+                        <persName>Артемий Андреевич Лебедев</persName>
+                    </person>
+                    <person xml:id="Ignatiy_Mihaylovich_Ivanov">
+                        <persName>Игнатий Михайлович Иванов</persName>
+                    </person>
+                    <person xml:id="Alexandr_Vladimirovich_Prohorov">
+                        <persName>Александр Владимирович Прохоров</persName>
+                    </person>
                     <listRelation type="personal">
-                        <relation name="parent_of" active="#Elli_Nikolaevna_Lebedeva" passive="#Andrey_Valentinovich_Lebedev"/>
+                        <relation name="parent_of" active="#Elli_Nikolaevna_Lebedeva"
+                            passive="#Andrey_Valentinovich_Lebedev"/>
                         <relation name="parent_of" active="#Valentin_Valentinovich_Lebedev"
                             passive="#Andrey_Valentinovich_Lebedev"/>
-                        <relation name="siblings" mutual="#Andrey_Valentinovich_Lebedev #Valentin_Valentinovich_Lebedev"/>
+                        <relation name="siblings"
+                            mutual="#Andrey_Valentinovich_Lebedev #Valentin_Valentinovich_Lebedev"/>
                         <relation name="spouse" mutual="#Anya_Chyornaya #Misha"/>
-                        <relation name="parent_of" active="#Nikita_Alexeevich_Tolstoy" passive="#Misha"/>
-                        <relation name="parent_of" active="#Natalia_Mihailovna_Lozinskaya" passive="#Misha"/>
-                        <relation name="parent_of" active="#Nikita_Alexeevich_Tolstoy" passive="#Natasha"/>
-                        <relation name="parent_of" active="#Natalia_Mihailovna_Lozinskaya" passive="#Natasha"/>
+                        <relation name="parent_of" active="#Nikita_Alexeevich_Tolstoy"
+                            passive="#Misha"/>
+                        <relation name="parent_of" active="#Natalia_Mihailovna_Lozinskaya"
+                            passive="#Misha"/>
+                        <relation name="parent_of" active="#Nikita_Alexeevich_Tolstoy"
+                            passive="#Natasha"/>
+                        <relation name="parent_of" active="#Natalia_Mihailovna_Lozinskaya"
+                            passive="#Natasha"/>
                         <relation name="parent_of" active="#Vera_Krakau" passive="Anya_Chyornaya"/>
-                        <relation name="parent_of" active="#Natasha" passive="#Nikita_Ignatyevich_Tolstoy"/>
-                        <relation name="parent_of" active="#Nikita_Alexeevich_Tolstoy" passive="#Katya"/>
-                        <relation name="parent_of" active="#Natalia_Mihailovna_Lozinskaya" passive="#Katya"/>
-                        <relation name="parent_of" active="#Katya" passive="#Olga_Alexandrovna_Prohorova"/>
-                        <relation name="parent_of" active="#Katya" passive="#Gleb_Alexandrovich_Lozinskiy"/>
+                        <relation name="parent_of" active="#Natasha"
+                            passive="#Nikita_Ignatyevich_Tolstoy"/>
+                        <relation name="parent_of" active="#Nikita_Alexeevich_Tolstoy"
+                            passive="#Katya"/>
+                        <relation name="parent_of" active="#Natalia_Mihailovna_Lozinskaya"
+                            passive="#Katya"/>
+                        <relation name="parent_of" active="#Katya"
+                            passive="#Olga_Alexandrovna_Prohorova"/>
+                        <relation name="parent_of" active="#Katya"
+                            passive="#Gleb_Alexandrovich_Lozinskiy"/>
                     </listRelation>
                 </listPerson>
-                <listPlace>
-                    
-                </listPlace>
+                <listPlace> </listPlace>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
@@ -107,72 +152,126 @@
             <p><label><num type="cardinal">1</num></label></p>
             <p><label><date when="1976-11-30">30/XI 76</date></label></p>
             <salute>Дорогая <persName type="person" ref="#T_N_Tolstaya">Танюша</persName>!</salute>
-            <p>Приехали мы с <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">папой</rs> утром <date when="1976-10-27">27 октября</date> в <placeName ref="amman-jordan">Амман</placeName>, а выехали из <placeName ref="#karpovka">Карповского двора</placeName> утром
-                Натальиного дня т.е. <date when="1976-09-08">8 сентября</date>. И были мы все это время людьми без постоянного места
-                жительства и без определенных занятий. Конечно, нехорошо, что не бросали открыток с
-                дороги, но, казалось, что это дело неверное и доставка может затя- нуться. Вот, думали,
-                приедем скоро "домой" и в "понедельник"-день нашей традицион- ной почтой —— пошлём. А
-                это "скоро" затянулось на 50 дней. Это письмо первое и в нем будет всего понемногу,
-                более подробные картины нашей Одиссеи, вырисуются посте- пенно, попозже. Сейчас все еще
-                не отлежалось, одно впечатление, при передвижении со скоростью 100 км в час, наложилось
-                на другое, и нужно много усилие, чтобы их отделить друг от друга.</p>
-            <p>Но маршрут наш говорит сам за себя. <placeName ref="#leningrad-russia">Ленинград</placeName> —— <placeName ref="#finland">Финляндия</placeName> —— паром —— <placeName ref="#sweden">Швеция</placeName> —— паром ——
-                —— <placeName ref="#brd">ФРГ</placeName> —— <placeName ref="#holland">Голландия</placeName> —— <placeName ref="#luxembourg">Люксембург</placeName> —— <placeName ref="#france">Франция</placeName> —— <placeName ref="#spain">Испания</placeName> —— <placeName ref="#andorra">Андорра</placeName> —— <placeName ref="#france">Франция</placeName> <add
-                    place="above">—— <placeName ref="#monaco">Монако</placeName> ——</add> —— <placeName ref="#italy">Италия</placeName> —— —— <placeName ref="#yugoslavia">Югославия</placeName> —— Болгария —— Турция ——
-                Сирия —— —— Иордания. Всего 13 1/2 тысяч километров. В <placeName ref="#holland">Голландии</placeName> <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">папа</rs> купил "говорилку",
-                как мы ее назвали. Маленький, размером с "сувенир- ную" спичечную коробку, точнее 12x6x3
+            <p>Приехали мы с <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">папой</rs> утром
+                    <date when="1976-10-27">27 октября</date> в <placeName ref="amman-jordan"
+                    >Амман</placeName>, а выехали из <placeName ref="#karpovka">Карповского
+                    двора</placeName> утром Натальиного дня т.е. <date when="1976-09-08">8
+                    сентября</date>. И были мы все это время людьми без постоянного места жительства
+                и без определенных занятий. Конечно, нехорошо, что не бросали открыток с дороги, но,
+                казалось, что это дело неверное и доставка может затя- нуться. Вот, думали, приедем
+                скоро "домой" и в "понедельник"-день нашей традицион- ной почтой —— пошлём. А это
+                "скоро" затянулось на 50 дней. Это письмо первое и в нем будет всего понемногу,
+                более подробные картины нашей Одиссеи, вырисуются посте- пенно, попозже. Сейчас все
+                еще не отлежалось, одно впечатление, при передвижении со скоростью 100 км в час,
+                наложилось на другое, и нужно много усилие, чтобы их отделить друг от друга.</p>
+            <p>Но маршрут наш говорит сам за себя. <placeName ref="#leningrad-russia"
+                    >Ленинград</placeName> —— <placeName ref="#finland">Финляндия</placeName> ——
+                паром —— <placeName ref="#sweden">Швеция</placeName> —— паром —— —— <placeName
+                    ref="#brd">ФРГ</placeName> —— <placeName ref="#holland">Голландия</placeName> ——
+                    <placeName ref="#luxembourg">Люксембург</placeName> —— <placeName ref="#france"
+                    >Франция</placeName> —— <placeName ref="#spain">Испания</placeName> ——
+                    <placeName ref="#andorra">Андорра</placeName> —— <placeName ref="#france"
+                    >Франция</placeName>
+                <add place="above">—— <placeName ref="#monaco">Монако</placeName> ——</add> ——
+                    <placeName ref="#italy">Италия</placeName> —— —— <placeName ref="#yugoslavia"
+                    >Югославия</placeName> —— Болгария —— Турция —— Сирия —— —— Иордания. Всего 13
+                1/2 тысяч километров. В <placeName ref="#holland">Голландии</placeName>
+                <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">папа</rs> купил "говорилку", как
+                мы ее назвали. Маленький, размером с "сувенир- ную" спичечную коробку, точнее 12x6x3
                 см касетный магнитофон (рисунок) <pb n="1"/>
-                <num type="cardinal">2</num> чтобы в пути не записывать, что трудно (трясёт), а просто
-                наговаривать свои впечатления. Сейчас мы прослушиваем (<rs type="person" ref="#Nikita_Alexeevich_Tolstoy">папа</rs> жалеет, что я ленилась
-                говорить) эти записи. Все что говорил <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">папа</rs> —— очень интересно, легко, ярко с некоторой
-                гипербо- личностью. Все, что <del rend="overstrike">что</del> <rs type="person" ref="#Natalia_Mihailovna_Lozinskaya">я</rs> —— скучно, банально, чисто
-                перечислительное, не дает никакого пред- ставления об окружающем и голос фаль- шивый и
-                отвратительный. <rs type="person" ref="#Natalia_Mihailovna_Lozinskaya">Я</rs> очень недо- вольна собой. [Все врет. <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">Отец</rs>.]</p>
-            <p>Где-то в середине путешествия испортился наш фотоаппарат. К счастью <rs type="person" ref="#Natalia_Mihailovna_Lozinskaya">я</rs> взяла кинокаме- ру.
-                (Ты об ней спрашиваешь?) и м.б. на ней что-нибудь получится.</p>
-            <p>Что у <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">папы</rs> с ногой? Да у <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">него</rs> в Финлян- дии (самая острая боль), в Швеции и еще несколько
-                дней после (вообще-то, <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">он</rs> и сейчас ??? жалуется) до невозможности болело колено. <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">Он</rs> даже
-                колебался не вер- нуться ли домой и лететь в Амман. Сперва <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">он</rs> сам определил, а потом
-                доктор в Париже подтвердил, что это бурсит, воспаление коленного сустава <add
-                    place="above">(сумки)</add> и вода в колене. <add place="above">не питьевая.</add>
-                Теперь <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">папа</rs> вспоминает, что не так давно сильно ударился об угол кровати и это дало
-                такой результат. Глотает Brufen —— лекарство, которым лечится <persName ref="#Volodya">Володя</persName>, муж <persName ref="Nastya_Yegoryeva">Насти
-                Егорьевой</persName>. Очень помо- гает.</p>
+                <num type="cardinal">2</num> чтобы в пути не записывать, что трудно (трясёт), а
+                просто наговаривать свои впечатления. Сейчас мы прослушиваем (<rs type="person"
+                    ref="#Nikita_Alexeevich_Tolstoy">папа</rs> жалеет, что я ленилась говорить) эти
+                записи. Все что говорил <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">папа</rs>
+                —— очень интересно, легко, ярко с некоторой гипербо- личностью. Все, что <del
+                    rend="overstrike">что</del>
+                <rs type="person" ref="#Natalia_Mihailovna_Lozinskaya">я</rs> —— скучно, банально,
+                чисто перечислительное, не дает никакого пред- ставления об окружающем и голос фаль-
+                шивый и отвратительный. <rs type="person" ref="#Natalia_Mihailovna_Lozinskaya"
+                    >Я</rs> очень недо- вольна собой. [Все врет. <rs type="person"
+                    ref="#Nikita_Alexeevich_Tolstoy">Отец</rs>.]</p>
+            <p>Где-то в середине путешествия испортился наш фотоаппарат. К счастью <rs type="person"
+                    ref="#Natalia_Mihailovna_Lozinskaya">я</rs> взяла кинокаме- ру. (Ты об ней
+                спрашиваешь?) и м.б. на ней что-нибудь получится.</p>
+            <p>Что у <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">папы</rs> с ногой? Да у <rs
+                    type="person" ref="#Nikita_Alexeevich_Tolstoy">него</rs> в Финлян- дии (самая
+                острая боль), в Швеции и еще несколько дней после (вообще-то, <rs type="person"
+                    ref="#Nikita_Alexeevich_Tolstoy">он</rs> и сейчас ??? жалуется) до невозможности
+                болело колено. <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">Он</rs> даже
+                колебался не вер- нуться ли домой и лететь в Амман. Сперва <rs type="person"
+                    ref="#Nikita_Alexeevich_Tolstoy">он</rs> сам определил, а потом доктор в Париже
+                подтвердил, что это бурсит, воспаление коленного сустава <add place="above"
+                    >(сумки)</add> и вода в колене. <add place="above">не питьевая.</add> Теперь <rs
+                    type="person" ref="#Nikita_Alexeevich_Tolstoy">папа</rs> вспоминает, что не так
+                давно сильно ударился об угол кровати и это дало такой результат. Глотает Brufen ——
+                лекарство, которым лечится <persName ref="#Volodya">Володя</persName>, муж <persName
+                    ref="Nastya_Yegoryeva">Насти Егорьевой</persName>. Очень помо- гает.</p>
             <pb n="2"/>
             <label><num type="cardinal">3</num></label>
-            <p>Конечно <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">папа</rs> мечтал давно о таком великолепном путешествии и считал, что оно <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">ему</rs> будет
-                нипо- чем. Но <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">ему</rs> уже давно <add place="above">(40 лет)</add> не 20 лет, и проехали мы
-                сама знаешь сколько, напряжение в пути изрядное, надо все время быть начеку, особенно на
-                автострадах, так что вдруг ночью (в Андорре) в кемпинге —— спали мы в своей машине —— у
-                <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">папы</rs> пошла кровь носом и это повторя- лось потом неоднократно и неожиданно. <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">Он</rs> стал в
-                сумерках плохо видеть, болела голова.. Опять таки уже в Париже определилось подскочившее
-                давление: 130——170.<add place="below">(вместо привычных 80——120)</add> <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">Ему</rs> дали
-                бюллетень и велели отдохнуть. Так что, то что мы жили не в гостинице, а в семье было
-                просто спасительно.<add place="below">[<rs type="person" ref="#Nikita_Alexeevich_Tolstoy">Я</rs> слишком часто повторял в пути: "нет уж, кровь
-                    из носу, а доедем до места. <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">Н.Т.</rs>]</add></p>
+            <p>Конечно <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">папа</rs> мечтал давно о
+                таком великолепном путешествии и считал, что оно <rs type="person"
+                    ref="#Nikita_Alexeevich_Tolstoy">ему</rs> будет нипо- чем. Но <rs type="person"
+                    ref="#Nikita_Alexeevich_Tolstoy">ему</rs> уже давно <add place="above">(40
+                    лет)</add> не 20 лет, и проехали мы сама знаешь сколько, напряжение в пути
+                изрядное, надо все время быть начеку, особенно на автострадах, так что вдруг ночью
+                (в Андорре) в кемпинге —— спали мы в своей машине —— у <rs type="person"
+                    ref="#Nikita_Alexeevich_Tolstoy">папы</rs> пошла кровь носом и это повторя- лось
+                потом неоднократно и неожиданно. <rs type="person" ref="#Nikita_Alexeevich_Tolstoy"
+                    >Он</rs> стал в сумерках плохо видеть, болела голова.. Опять таки уже в Париже
+                определилось подскочившее давление: 130——170.<add place="below">(вместо привычных
+                    80——120)</add>
+                <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">Ему</rs> дали бюллетень и велели
+                отдохнуть. Так что, то что мы жили не в гостинице, а в семье было просто
+                    спасительно.<add place="below">[<rs type="person"
+                        ref="#Nikita_Alexeevich_Tolstoy">Я</rs> слишком часто повторял в пути: "нет
+                    уж, кровь из носу, а доедем до места. <rs type="person"
+                        ref="#Nikita_Alexeevich_Tolstoy">Н.Т.</rs>]</add></p>
             <p>Когда приехали, нас ждали 4 твоих чудесных письма —— какая радость. А что за прелесть
-                <persName ref="Artemy_Andreevich_Lebedev">Тёма</persName>! Когда вспоминаю о <rs type="person" ref="#Artemy_Andreevich_Lebedev">нем</rs> и произношу его имя у меня слезы наворачи- ваются, я так его
-                люблю. [Совсем спятила по <rs type="person" ref="#Artemy_Andreevich_Lebedev">внуку</rs> <rs type="person" ref="#Natalia_Mihailovna_Lozinskaya">старуха</rs> <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">Н.Т.</rs>] Было два письма от <persName ref="#Vera_Krakau">Верхен</persName>, 2 от <persName ref="#Anya_Chyornaya">Ани</persName>, 1 от
-                <persName ref="#Natasha">Наташи</persName>, и одно от <persName ref="#Nikita_Ignatyevich_Tolstoy">Ники</persName>. —— Вот сколько накопилось.</p>
+                    <persName ref="#Artemy_Andreevich_Lebedev">Тёма</persName>! Когда вспоминаю о
+                    <rs type="person" ref="#Artemy_Andreevich_Lebedev">нем</rs> и произношу его имя
+                у меня слезы наворачи- ваются, я так его люблю. [Совсем спятила по <rs type="person"
+                    ref="#Artemy_Andreevich_Lebedev">внуку</rs>
+                <rs type="person" ref="#Natalia_Mihailovna_Lozinskaya">старуха</rs>
+                <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">Н.Т.</rs>]</p>
+            <p>Было два письма от <persName ref="#Vera_Krakau">Верхен</persName>, 2 от <persName
+                    ref="#Anya_Chyornaya">Ани</persName>, 1 от <persName ref="#Natasha"
+                    >Наташи</persName>, и одно от <persName ref="#Nikita_Ignatyevich_Tolstoy"
+                    >Ники</persName>. —— Вот сколько накопилось.</p>
             <p>Ты не написала как у тебя идет (и идёт ли) перевод о Египте. Почему не получилось с
-                секретарской работой. Огорчила и озадачила сообщением о <persName ref="#Katya">Кате</persName>. Уж если уехала на долго
-                надо было, по моему, взять и <persName ref="#Olga_Alexandrovna_Prohorova">Люшу</persName>. Пусть там ходит в школу. Неужели у <rs type="person" ref="#Katya">нее</rs> не болит душа
-                за оставшихся деток. Была бы у тебя квартира, ты <pb n="3"/>
-                <label><num type="cardinal">4</num></label> могла бы даже м.б. <persName ref="#Gleb_Alexandrovich_Lozinskiy">Глеба</persName> взять к себе. Он и помощник был бы
-                тебе и ты бы заменила ему мать. Он ведь очень хоро- ший мальчик и не заслужил такого
-                детства. А <persName ref="#Alexandr_Vladimirovich_Prohorov">Саша</persName>, что-бы не выделывала <persName ref="#Katya">Катя</persName>, наш родной, достойный, любимый зять. Как ему
-                должно быть сейчас трудно справляться.</p>
-            <p>А магнитофончик Филипс —— восторг. Весит —— перышко, звук четкий. Конечно он для речи,
-                вместо записной книжки. Так и называется "pocket memo". Кассетки —— крохотулечки по 15
-                мин на сторону, всего на полчаса. Вместе с ним купил для <persName ref="#Olya">Олечки</persName> обычный Cassette-Radio,
-                очень хороший и элегантный. <rs type="person" ref="#Olya">Она</rs> будет довольна. Пока утешаем себя им в Аммане.</p>
-            <p>Не терпится узнать, что и какое у тебя родится. Заранее любим <rs type="person" ref="#Alexey_Andreevich_Lebedev">это</rs>.</p>
-            <p>Как известно <persName ref="#Ignatiy_Mihaylovich_Ivanov">Игнатий</persName> считает, что <persName ref="#Vanya">Ване</persName> для того, чтобы стать писателем надо уйти из дому.
-                <persName ref="#Ignatiy_Mihaylovich_Ivanov">Игнатий</persName> всё пере- путал: Толстые сначала становятся писателями, а потом уж уходят из
-                дому.</p>
-            <p>Целуем крепко дорогого <persName ref="#Andrey_Valentinovich_Lebedev">Андрюшу</persName> и весь клан <persName ref="#Elli_Nikolaevna_Lebedeva">Элли Ник</persName>, <persName ref="#Valentin_Yakovlevich_Lebedev">Вал. Як.</persName> <persName ref="#Valentin_Valentinovich_Lebedev">Валю</persName>. Тебя топим в
-                родительской любви, а <persName ref="#Artemy_Andreevich_Lebedev">Тёму</persName> —— в дедобабной.</p>
-            <signed><rs type="person" ref="#Nikita_Alexeevich_Tolstoy">Папа</rs> и <rs type="person" ref="#Natalia_Mihailovna_Lozinskaya">Мама</rs></signed>
+                секретарской работой. Огорчила и озадачила сообщением о <persName ref="#Katya"
+                    >Кате</persName>. Уж если уехала на долго надо было, по моему, взять и <persName
+                    ref="#Olga_Alexandrovna_Prohorova">Люшу</persName>. Пусть там ходит в школу.
+                Неужели у <rs type="person" ref="#Katya">нее</rs> не болит душа за оставшихся деток.
+                Была бы у тебя квартира, ты <pb n="3"/>
+                <label><num type="cardinal">4</num></label> могла бы даже м.б. <persName
+                    ref="#Gleb_Alexandrovich_Lozinskiy">Глеба</persName> взять к себе. Он и помощник
+                был бы тебе и ты бы заменила ему мать. <rs type="person"
+                    ref="#Gleb_Alexandrovich_Lozinskiy">Он</rs> ведь очень хоро- ший мальчик и не
+                заслужил такого детства. А <persName ref="#Alexandr_Vladimirovich_Prohorov"
+                    >Саша</persName>, что-бы не выделывала <persName ref="#Katya">Катя</persName>,
+                наш родной, достойный, любимый зять. Как ему должно быть сейчас трудно
+                справляться.</p>
+            <p>А магнитофончик Филипс —— восторг. Весит —— перышко, звук четкий. Конечно он для
+                речи, вместо записной книжки. Так и называется "pocket memo". Кассетки ——
+                крохотулечки по 15 мин на сторону, всего на полчаса. Вместе с ним купил для
+                    <persName ref="#Olya">Олечки</persName> обычный Cassette-Radio, очень хороший и
+                элегантный. <rs type="person" ref="#Olya">Она</rs> будет довольна. Пока утешаем себя
+                им в Аммане.</p>
+            <p>Не терпится узнать, что и какое у тебя родится. Заранее любим <rs type="person"
+                    ref="#Alexey_Andreevich_Lebedev">это</rs>.</p>
+            <p>Как известно <persName ref="#Ignatiy_Mihaylovich_Ivanov">Игнатий</persName> считает,
+                что <persName ref="#Vanya">Ване</persName> для того, чтобы стать писателем надо уйти
+                из дому. <persName ref="#Ignatiy_Mihaylovich_Ivanov">Игнатий</persName> всё пере-
+                путал: Толстые сначала становятся писателями, а потом уж уходят из дому.</p>
+            <p>Целуем крепко дорогого <persName ref="#Andrey_Valentinovich_Lebedev"
+                    >Андрюшу</persName> и весь клан <persName ref="#Elli_Nikolaevna_Lebedeva">Элли
+                    Ник</persName>, <persName ref="#Valentin_Yakovlevich_Lebedev">Вал.
+                    Як.</persName>
+                <persName ref="#Valentin_Valentinovich_Lebedev">Валю</persName>. Тебя топим в
+                родительской любви, а <persName ref="#Artemy_Andreevich_Lebedev">Тёму</persName> ——
+                в дедобабной.</p>
+            <signed><rs type="person" ref="#Nikita_Alexeevich_Tolstoy">Папа</rs> и <rs type="person"
+                    ref="#Natalia_Mihailovna_Lozinskaya">Мама</rs></signed>
         </body>
     </text>
 </TEI>
