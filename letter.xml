@@ -4,10 +4,10 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Письмо №44. А. С. Оголину.</title>
+                <title>Письмо Н. А. Толстого и Н. М. Лозинской из Иордании.</title>
             </titleStmt>
             <publicationStmt>
-                <publisher>NAME?</publisher>
+                <publisher>DH-MINOR</publisher>
                 <date when="2020-04-24">24 April 2020</date>
             </publicationStmt>
             <sourceDesc>
@@ -16,16 +16,15 @@
                         Толстой</persName></author>
                     <author><persName xml:id="Natalia_Mihailovna_Lozinskaya">Н. М.
                             Лозинская</persName></author>
-                    <name>Личная коллекция Михаила Сонькина?</name>
-                    <idno>Номер письма в личной коллекции Михаила Сонькина?</idno>
+                    <name>Личная коллекция Михаила Сонькина</name>
                     <availability status="free">
-                        <p>In the public domain.(?)</p>
+                        <p>In the public domain.</p>
                     </availability>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
                         <settlement>Москва</settlement>
-                        <repository>Личная коллекция Михаила Сонькина?</repository>
+                        <repository>Личная коллекция Михаила Сонькина</repository>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
