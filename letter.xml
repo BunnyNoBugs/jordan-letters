@@ -41,22 +41,23 @@
                     </physDesc>
                 </msDesc>
                 <listPerson>
-                    <person xml:id="Elli_Nikolaevna_Lebedeva"/>
-                    <person xml:id="Valentin_Yakovlevich_Lebedev"/>
-                    <person xml:id="Valentin_Valentinovich_Lebedev"/>
-                    <person xml:id="Andrey_Valentinovich_Lebedev"/>
-                    <person xml:id="Vera_Krakau"/>
-                    <person xml:id="Nikita_Ignatyevich_Tolstoy"/>
-                    <person xml:id="Katya"/>
-                    <person xml:id="Olga_Alexandrovna_Prohorova"/>
-                    <person xml:id="Gleb_Alexandrovich_Lozinskiy"/>
-                    <person xml:id="Misha"/>
-                    <person xml:id="Olya"/>
-                    <person xml:id="Anya_Chyornaya"/>
-                    <person xml:id="Natasha"/>
-                    <person xml:id="Alexey_Andreevich_Lebedev"/>
-                    <person xml:id="Artemy_Andreevich_Lebedev"/>
-                    <person xml:id="Ignatiy_Mihaylovich_Ivanov"/>
+                    <person xml:id="Elli_Nikolaevna_Lebedeva"><persName>Элли Николаевна Лебедева</persName></person>
+                    <person xml:id="Valentin_Yakovlevich_Lebedev"><persName>Валентин Яковлевич Лебедев</persName></person>
+                    <person xml:id="Valentin_Valentinovich_Lebedev"><persName>Валентин Валентинович Лебедев</persName></person>
+                    <person xml:id="Andrey_Valentinovich_Lebedev"><persName>Андрей Валентинович Лебедев</persName></person>
+                    <person xml:id="Vera_Krakau"><persName>Вера Кракау</persName></person>
+                    <person xml:id="Nikita_Ignatyevich_Tolstoy"><persName>Никита Игнатьевич Толстой</persName></person>
+                    <person xml:id="Katya"><persName>Екатерина Никитична Толстая</persName></person>
+                    <person xml:id="Olga_Alexandrovna_Prohorova"><persName>Ольга Александровна Прохорова</persName></person>
+                    <person xml:id="Gleb_Alexandrovich_Lozinskiy"><persName>Глеб Александрович Лозинский</persName></person>
+                    <person xml:id="Misha"><persName>Михаил Никитич Толстой</persName></person>
+                    <person xml:id="Olya"><persName>Ольга Никитична Толстая</persName></person>
+                    <person xml:id="Anya_Chyornaya"><persName>Аня Чёрная</persName></person>
+                    <person xml:id="Natasha"><persName>Наталья Никитична Толстая</persName></person>
+                    <person xml:id="Alexey_Andreevich_Lebedev"><persName>Алексей Андреевич Лебедев</persName></person>
+                    <person xml:id="Artemy_Andreevich_Lebedev"><persName>Артемий Андреевич Лебедев</persName></person>
+                    <person xml:id="Ignatiy_Mihaylovich_Ivanov"><persName>Игнатий Михайлович Иванов</persName></person>
+                    <person xml:id="Alexandr_Vladimirovich_Prohorov"><persName>Александр Владимирович Прохоров</persName></person>
                     <listRelation type="personal">
                         <relation name="parent_of" active="#Elli_Nikolaevna_Lebedeva" passive="#Andrey_Valentinovich_Lebedev"/>
                         <relation name="parent_of" active="#Valentin_Valentinovich_Lebedev"
@@ -168,8 +169,8 @@
 
     <text>
         <body>
-            <label><num type="cardinal">1</num></label>
-            <label><date when="1976-11-30">30/XI 76</date></label>
+            <p><label><num type="cardinal">1</num></label></p>
+            <p><label><date when="1976-11-30">30/XI 76</date></label></p>
             <salute>Дорогая <persName type="person" ref="#T_N_Tolstaya">Танюша</persName>!</salute>
             <p>Приехали мы с <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">папой</rs> утром <date when="1976-10-27">27 октября</date> в <placeName ref="amman-jordan">Амман</placeName>, а выехали из <placeName ref="#karpovka">Карповского двора</placeName> утром
                 Натальиного дня т.е. <date when="1976-09-08">8 сентября</date>. И были мы все это время людьми без постоянного места
@@ -224,7 +225,7 @@
                 за оставшихся деток. Была бы у тебя квартира, ты <pb n="3"/>
                 <label><num type="cardinal">4</num></label> могла бы даже м.б. <persName ref="#Gleb_Alexandrovich_Lozinskiy">Глеба</persName> взять к себе. Он и помощник был бы
                 тебе и ты бы заменила ему мать. Он ведь очень хоро- ший мальчик и не заслужил такого
-                детства. А <persName ref="#A_V_Prohorov">Саша</persName>, что-бы не выделывала <persName ref="#Katya">Катя</persName>, наш родной, достойный, любимый зять. Как ему
+                детства. А <persName ref="#Alexandr_Vladimirovich_Prohorov">Саша</persName>, что-бы не выделывала <persName ref="#Katya">Катя</persName>, наш родной, достойный, любимый зять. Как ему
                 должно быть сейчас трудно справляться.</p>
             <p>А магнитофончик Филипс —— восторг. Весит —— перышко, звук четкий. Конечно он для речи,
                 вместо записной книжки. Так и называется "pocket memo". Кассетки —— крохотулечки по 15
