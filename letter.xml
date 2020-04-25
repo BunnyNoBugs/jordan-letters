@@ -73,7 +73,72 @@
                     </listRelation>
                 </listPerson>
                 <listPlace>
+<<<<<<< Updated upstream
                     
+=======
+                    <place>
+                        <country xml:id="finland"/>
+                    </place>
+                    <place>
+                        <country xml:id="sweden"/>
+                    </place>
+                    <place>
+                        <country xml:id="brd"/>
+                    </place>
+                    <place>
+                        <country xml:id="holland"/>
+                    </place>
+                    <place>
+                        <country xml:id="luxembourg"/>
+                    </place>
+                    <place>
+                        <country xml:id="france"/>
+                        <place>
+                            <settlement xml:id='paris-france'/>
+                        </place>
+                    </place>
+                    <place>
+                        <country xml:id="spain"/>
+                    </place>
+                    <place>
+                        <country xml:id="andorra"/>
+                    </place>
+                    <place>
+                        <country xml:id="monaco"/>
+                    </place>
+                    <place>
+                        <country xml:id="italy"/>
+                    </place>
+                    <place>
+                        <country xml:id="yugoslavia"/>
+                    </place>
+                    <place>
+                        <country xml:id="bulgaria"/>
+                    </place>
+                    <place>
+                        <country xml:id="turkey"/>
+                    </place>
+                    <place>
+                        <country xml:id="syria"/>
+                    </place>
+                    <place>
+                        <country xml:id="jordan"/>
+                        <place>
+                            <settlement xml:id='amman-jordan'/>
+                        </place>   
+                    <place>
+                        <settlement xml:id="leningrad-ussr"/>
+                        <place>
+                            <location xml:id="karpovka">
+                                <address>
+                                    <street>Naberezhnaya Reki Karpovki, 13</street>
+                                    <settlement>Leningrad</settlement>
+                                    <country>USSR</country>
+                                </address>
+                            </location>
+                        </place>
+                    </place>
+>>>>>>> Stashed changes
                 </listPlace>
             </sourceDesc>
         </fileDesc>
