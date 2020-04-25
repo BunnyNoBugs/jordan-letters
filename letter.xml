@@ -81,6 +81,9 @@
                     <person xml:id="Natasha">
                         <persName>Наталья Никитична Толстая</persName>
                     </person>
+                    <person xml:id="Vanya">
+                        <persName>Иван Никитич Толстой</persName>
+                    </person>
                     <person xml:id="Alexey_Andreevich_Lebedev">
                         <persName>Алексей Андреевич Лебедев</persName>
                     </person>
@@ -91,6 +94,12 @@
                         <persName>Игнатий Михайлович Иванов</persName>
                     </person>
                     <person xml:id="Alexandr_Vladimirovich_Prohorov">
+                        <persName>Александр Владимирович Прохоров</persName>
+                    </person>
+                    <person xml:id="Volodya">
+                        <persName>Володя</persName>
+                    </person>
+                    <person xml:id="Nastya_Yegoryeva">
                         <persName>Александр Владимирович Прохоров</persName>
                     </person>
                     <listRelation type="personal">
@@ -233,7 +242,7 @@
                     вырисуются посте- пенно, попозже. Сейчас все еще не отлежалось, одно
                     впечатление, при передвижении со скоростью 100 км в час, наложилось на другое, и
                     нужно много усилие, чтобы их отделить друг от друга.</p>
-                <p>Но маршрут наш говорит сам за себя. <placeName ref="#leningrad-russia"
+                <p>Но маршрут наш говорит сам за себя. <placeName ref="#leningrad-ussr"
                         >Ленинград</placeName> —— <placeName ref="#finland">Финляндия</placeName> ——
                     паром —— <placeName ref="#sweden">Швеция</placeName> —— паром —— —— <placeName
                         ref="#brd">ФРГ</placeName> —— <placeName ref="#holland"
@@ -257,9 +266,9 @@
                     <rs type="person" ref="#Natalia_Mihailovna_Lozinskaya">я</rs> —— скучно,
                     банально, чисто перечислительное, не дает никакого пред- ставления об окружающем
                     и голос фаль- шивый и отвратительный. <rs type="person"
-                        ref="#Natalia_Mihailovna_Lozinskaya">Я</rs> очень недо- вольна собой. [Все
+                        ref="#Natalia_Mihailovna_Lozinskaya">Я</rs> очень недо- вольна собой. <handShift scribeRef="#Nikita_Alexeevich_Tolstoy" />[Все
                     врет. <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">Отец</rs>.]</p>
-                <p>Где-то в середине путешествия испортился наш фотоаппарат. К счастью <rs
+                <p> <handShift scribeRef="#Natalia_Mihailovna_Lozinskaya" />Где-то в середине путешествия испортился наш фотоаппарат. К счастью <rs
                         type="person" ref="#Natalia_Mihailovna_Lozinskaya">я</rs> взяла кинокаме-
                     ру. (Ты об ней спрашиваешь?) и м.б. на ней что-нибудь получится.</p>
                 <p>Что у <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">папы</rs> с ногой? Да у
@@ -275,34 +284,34 @@
                         питьевая.</add> Теперь <rs type="person" ref="#Nikita_Alexeevich_Tolstoy"
                         >папа</rs> вспоминает, что не так давно сильно ударился об угол кровати и
                     это дало такой результат. Глотает Brufen —— лекарство, которым лечится <persName
-                        ref="#Volodya">Володя</persName>, муж <persName ref="Nastya_Yegoryeva">Насти
+                        ref="#Volodya">Володя</persName>, муж <persName ref="#Nastya_Yegoryeva">Насти
                         Егорьевой</persName>. Очень помо- гает.</p>
                 <pb n="3"/>
                 <p>Конечно <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">папа</rs> мечтал давно
                     о таком великолепном путешествии и считал, что оно <rs type="person"
                         ref="#Nikita_Alexeevich_Tolstoy">ему</rs> будет нипо- чем. Но <rs
                         type="person" ref="#Nikita_Alexeevich_Tolstoy">ему</rs> уже давно <add
-                        place="above">(40 лет)</add> не 20 лет, и проехали мы сама знаешь сколько,
+                        place="above"><handShift scribeRef="#Nikita_Alexeevich_Tolstoy" />(40 лет)</add><handShift scribeRef="#Natalia_Mihailovna_Lozinskaya" /> не 20 лет, и проехали мы сама знаешь сколько,
                     напряжение в пути изрядное, надо все время быть начеку, особенно на автострадах,
                     так что вдруг ночью (в Андорре) в кемпинге —— спали мы в своей машине —— у <rs
                         type="person" ref="#Nikita_Alexeevich_Tolstoy">папы</rs> пошла кровь носом и
                     это повторя- лось потом неоднократно и неожиданно. <rs type="person"
                         ref="#Nikita_Alexeevich_Tolstoy">Он</rs> стал в сумерках плохо видеть,
                     болела голова.. Опять таки уже в Париже определилось подскочившее давление:
-                        130——170.<add place="below">(вместо привычных 80——120)</add>
-                    <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">Ему</rs> дали бюллетень и
+                        130——170.<add place="below"><handShift scribeRef="#Nikita_Alexeevich_Tolstoy" />(вместо привычных 80——120)</add>
+                    <handShift scribeRef="#Natalia_Mihailovna_Lozinskaya" /><rs type="person" ref="#Nikita_Alexeevich_Tolstoy">Ему</rs> дали бюллетень и
                     велели отдохнуть. Так что, то что мы жили не в гостинице, а в семье было просто
-                        спасительно.<add place="below">[<rs type="person"
+                        спасительно.<add place="below"><handShift scribeRef="#Nikita_Alexeevich_Tolstoy" />[<rs type="person"
                             ref="#Nikita_Alexeevich_Tolstoy">Я</rs> слишком часто повторял в пути:
                         "нет уж, кровь из носу, а доедем до места. <rs type="person"
                             ref="#Nikita_Alexeevich_Tolstoy">Н.Т.</rs>]</add></p>
-                <p>Когда приехали, нас ждали 4 твоих чудесных письма —— какая радость. А что за
-                    прелесть <persName ref="Artemy_Andreevich_Lebedev">Тёма</persName>! Когда
+                <p><handShift scribeRef="#Natalia_Mihailovna_Lozinskaya" />Когда приехали, нас ждали 4 твоих чудесных письма —— какая радость. А что за
+                    прелесть <persName ref="#Artemy_Andreevich_Lebedev">Тёма</persName>! Когда
                     вспоминаю о <rs type="person" ref="#Artemy_Andreevich_Lebedev">нем</rs> и
-                    произношу его имя у меня слезы наворачи- ваются, я так его люблю. [Совсем
+                    произношу его имя у меня слезы наворачи- ваются, я так его люблю. <handShift scribeRef="#Nikita_Alexeevich_Tolstoy" />[Совсем
                     спятила по <rs type="person" ref="#Artemy_Andreevich_Lebedev">внуку</rs>
                     <rs type="person" ref="#Natalia_Mihailovna_Lozinskaya">старуха</rs>
-                    <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">Н.Т.</rs>] Было два письма от
+                    <rs type="person" ref="#Nikita_Alexeevich_Tolstoy">Н.Т.</rs>] <handShift scribeRef="#Natalia_Mihailovna_Lozinskaya" />Было два письма от
                         <persName ref="#Vera_Krakau">Верхен</persName>, 2 от <persName
                         ref="#Anya_Chyornaya">Ани</persName>, 1 от <persName ref="#Natasha"
                         >Наташи</persName>, и одно от <persName ref="#Nikita_Ignatyevich_Tolstoy"
@@ -315,11 +324,11 @@
                     за оставшихся деток. Была бы у тебя квартира, ты <pb n="4"/> могла бы даже м.б.
                         <persName ref="#Gleb_Alexandrovich_Lozinskiy">Глеба</persName> взять к себе.
                     Он и помощник был бы тебе и ты бы заменила ему мать. Он ведь очень хоро- ший
-                    мальчик и не заслужил такого детства. А <persName ref="#A_V_Prohorov"
+                    мальчик и не заслужил такого детства. А <persName ref="#Alexandr_Vladimirovich_Prohorov"
                         >Саша</persName>, что-бы не выделывала <persName ref="#Katya"
                         >Катя</persName>, наш родной, достойный, любимый зять. Как ему должно быть
                     сейчас трудно справляться.</p>
-                <p>А магнитофончик Филипс —— восторг. Весит —— перышко, звук четкий. Конечно он для
+                <p><handShift scribeRef="#Nikita_Alexeevich_Tolstoy" />А магнитофончик Филипс —— восторг. Весит —— перышко, звук четкий. Конечно он для
                     речи, вместо записной книжки. Так и называется "pocket memo". Кассетки ——
                     крохотулечки по 15 мин на сторону, всего на полчаса. Вместе с ним купил для
                         <persName ref="#Olya">Олечки</persName> обычный Cassette-Radio, очень
